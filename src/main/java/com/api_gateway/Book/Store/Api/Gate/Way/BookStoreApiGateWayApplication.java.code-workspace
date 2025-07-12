@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../../../../../UserService"
+		},
+		{
+			"path": "../../../../../../../../../../../BookService"
+		},
+		{
+			"path": "../../../../../../../../../../../OrderService"
+		},
+		{
+			"path": "../../../../../../../../../.."
+		},
+		{
+			"path": "../../../../../../../../../../../eureka-server"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic",
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
